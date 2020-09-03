@@ -11,7 +11,7 @@
   "author": "Alex Glaze",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^19.1.1",
     "babel-register": "^6.26.0",
     "boom": "^7.3.0",
     "hapi-mongodb": "^9.0.0",
